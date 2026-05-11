@@ -8,15 +8,11 @@ This project focuses on analyzing hotel booking data using Python and Power BI t
 
 
 
-
 Team Members & Responsibilities
 
 Shravya → Customer analysis
-
 Irfan → Cancellation Analysis
-
 Fathima Faraha → Booking & Revenue Analysis
-
 Keerthi → Market & Hotel Analysis
 
  Objectives
