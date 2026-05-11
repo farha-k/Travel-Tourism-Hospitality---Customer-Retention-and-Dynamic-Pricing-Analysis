@@ -1,18 +1,13 @@
 # Travel-Tourism-Hospitality---Customer-Retention-and-Dynamic-Pricing-Analysis
 Analysis of hotel booking data to identify cancellation drivers, customer segments, and seasonal pricing trends using EDA and machine learning techniques.
 Travel-Tourism-Hospitality-
+
 Project Overview
 This project focuses on analyzing hotel booking data using Python and Power BI to understand customer booking behavior, cancellation trends, and pricing insights. The project helps hotels improve customer retention and optimize business decisions through data-driven analysis.
 
 
 
-Business Objectives
-Identify sales trends over time
-Calculate key KPIs (Sales, Profit, Average Order Value)
-Analyze product and category performance
-Evaluate customer contribution and segmentation
-Compare regional performance
-Improve operational and logistics efficiency
+
 Team Members & Responsibilities
 Shravya → Customer analysis
 Irfan → Cancellation Analysis
